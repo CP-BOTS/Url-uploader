@@ -1,8 +1,9 @@
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
+
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [prgofficial](https://telegram.dog/prgofficial)
+#### If you find any bugs, report to [Closeup Bots Support](https://t.me/cpbotssupport)
+
 
 ### Features
 
@@ -20,7 +21,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**Upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**Upgrade** your subscription for [Closeup Bots](https://t.me/closeupbotssupport) without having to run anything on your own
 
 #### Deploy to Heroku
 
