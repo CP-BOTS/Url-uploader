@@ -21,7 +21,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**Upgrade** your subscription for [Closeup Bots](https://t.me/closeupbotssupport) without having to run anything on your own
+**Upgrade** your subscription for [Closeup Bots](https://t.me/cpbotssupport) without having to run anything on your own
 
 #### Deploy to Heroku
 
