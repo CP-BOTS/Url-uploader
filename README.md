@@ -25,12 +25,12 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/prgofficial/URLuploader-With-Hotstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/neera-j/urluploader)
 
 #### Run in your VPS
 ```sh
-git clone https://github.com/prgofficial/URLuploader-With-Hotstar
-cd URLuploader-With-Hotstar
+git clone https://github.com/neera-j/urluploader
+cd URLuploader
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
