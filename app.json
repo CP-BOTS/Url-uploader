@@ -6,9 +6,9 @@
     "url",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/prgofficial",
-  "repository": "https://github.com/prgofficial/URLuploader-With-Hotstar",
+  "success_url": "https://telegram.dog/Urluploadercpbot",
+  "website": "https://github.com/neera-j",
+  "repository": "https://github.com/neera-j/urluploader",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
@@ -32,8 +32,9 @@
       "required": false
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot",
-      "value": "680815375"
+      "description": "allow only pre-defined users to use this bot Enter Your User id",
+      "value": ""
+
     },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
