@@ -2,7 +2,7 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Telegram URL Upload Bot Created by the team Closeup! 
+This is a Telegram URL Upload Bot Created by the <b>team Closeup! </b>
 Our dream is to help achieve the ordinary telegram users to get benefit of the telegram'service
 Join our support group for any Doubts and complaints 
 
