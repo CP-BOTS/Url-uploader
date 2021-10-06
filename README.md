@@ -1,5 +1,5 @@
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=Send+any+direct+download+link+;this+bot+will+upload+it+to+Telegram)](https://github.com/CP-BOTS/Url-uploader)
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### If you find any bugs, report to [Closeup Bots Support](https://t.me/cpbotssupport)
@@ -22,6 +22,14 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 #### The Easiest Way
 
 **Upgrade** your subscription for [Closeup Bots](https://t.me/cpbotssupport) without having to run anything on your own
+
+
+### Config vars
+
+* -> `API_HASH`    - Get it from [my.telegram.org](https://my.telegram.org/auth)
+* -> `APP_ID`      - Get it from [my.telegram.org](https://my.telegram.org/auth)
+* -> `AUTH_USERS`  - Get it from [IDs Bot [TG]](https://telegram.dog/TGIdsBot)
+* -> `TG_BOT_TOKEN`- Get it from [Bot Father](https://telegram.dog/BotFather)
 
 #### Deploy to Heroku
 
