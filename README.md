@@ -20,11 +20,6 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 ### Installation
 
-#### The Easiest Way
-
-**Upgrade** your subscription for [Closeup Bots](https://t.me/cpbotssupport) without having to run anything on your own
-
-
 ### Config vars
 
 * -> `API_HASH`    - Get it from [my.telegram.org](https://my.telegram.org/auth)
