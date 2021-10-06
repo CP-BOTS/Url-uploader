@@ -1,7 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=Send+any+direct+download+link+;this+bot+will+upload+it+to+Telegram)](https://github.com/CP-BOTS/Url-uploader)
 
-ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
+ALL CREDITS GOES TO THE BELOVED [DEVELOPER](https://github.com/prgofficial) :)
+
 
 #### If you find any bugs, report to [Closeup Bots Support](https://t.me/cpbotssupport)
 
@@ -47,3 +48,13 @@ python3 bot.py
 * /upgrade           - Nothing much here
 * /deletethumbnail   - Clear saved thumbnail
 * /showthumb         - Show saved thumbnail
+
+
+###CREDITS
+
+We didn't create this code and we don't have any rights in this other than mentioned in the license 
+You can find the original one [here](https://github.com/prgofficial/URLuploader-With-Hotstar)
+
+###THANKS TO
+* CREATOR [SREMADAV](https://github.com/SpEcHiDe)
+* ADDING PERMANENT THUMBNAIL [๓คгςยร](https://github.com/prgofficial)
